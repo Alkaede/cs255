@@ -1,10 +1,10 @@
 DriverPass was a project to help better prepare their users for their driving tests via online courses and practice tests. The client sought a system to provide said help and include on-the-road-training. Their system was rather simple but can definitely be built into something more complex within an agile environment. For instance some of the requirements were as involved:
--Reservation Management
--User access control
--Data access
--Tracking and report logging
--Security
--Future Scalability
+- Reservation Management
+- User access control
+- Data access
+- Tracking and report logging
+- Security
+- Future Scalability
 
 I wish I could say I did well, but due to some unfortunate circumstances it was hard for me to bounce back, but I think that my determination to try and fix some of the problems is what I did well enough...
 
